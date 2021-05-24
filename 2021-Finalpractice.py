@@ -1,3 +1,5 @@
+# this practice is to make the lights linearly
+# become brighter
 import numpy as np
 import board
 import neopixel
