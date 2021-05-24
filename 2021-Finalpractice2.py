@@ -12,7 +12,7 @@ def r(n):
     return r
 
 # equation to solve: r(n) = 10n + 5 (linear)
-for n in range (n):
+for n in range (20):
     red = r(n)
 # the % sign is a modulus moderator,
 # it gives the remander when you divide two numbers
