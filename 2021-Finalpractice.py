@@ -12,5 +12,5 @@ def r(n):
 # equation to solve: r(n) = 10n + 5
 for n in range (20):
     red = r(n)
-    pixels[i] = (red, 0, 0)
+    pixels[n] = (red, 0, 0)
     print(n,red)
