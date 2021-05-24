@@ -9,7 +9,7 @@ def r(n):
     r = 10*n + 5
     return r
 
-# equation to solve: r(n) = 10n + 5
+# equation to solve: r(n) = 10n + 5 (linear)
 for n in range (20):
     red = r(n)
     pixels[n] = (red, 0, 0)
